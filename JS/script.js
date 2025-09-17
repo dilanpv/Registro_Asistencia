@@ -1,4 +1,3 @@
-// Lista de profesores (puedes ampliarla)
 const people = [
   "Alvarez Carlos","Benitez Lucia","Caicedo Andres","Diaz Maria","Estrada Pedro",
   "Fernandez Sofia","Garcia Luis","Hernandez Ana","Ibarra Jorge","Juarez Mateo",
